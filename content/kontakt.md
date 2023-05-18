@@ -14,6 +14,4 @@ Adresa: **Na Výspě 650/16, Ostrava-Výškovice 700 30**
 
 [![mapa](/mapa.png)](https://mapy.cz/s/jututamamo)
 
-ahoj
-
 >*Pracuji od pondělí do čtvrtka, převážně v dopoledních hodinách, v případě potřeby je možné se domluvit individuálně. Předpokládaný čas strávený na jednom terapeutickém sezení je 1,5 až 2 hodiny.*
