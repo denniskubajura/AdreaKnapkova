@@ -10,6 +10,8 @@ Telefon: **+ 420 777 885 407**
 
 E-mail: **info@andreaknapkova.cz**
 
+IČO: 18021379, nejsem plátcem DPH.
+
 Adresa: **Na Výspě 650/16, Ostrava-Výškovice 700 30**
 
 [![mapa](/mapa.png)](https://mapy.cz/s/jututamamo)

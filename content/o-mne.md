@@ -3,7 +3,7 @@ title: "O mně"
 url: "/o-mne/"
 ---
 
-![An image of me](/ja.jpg)
+![Andrea Knápková](/ja.jpg)
 
 Vystudovala jsem obor výchovně humanitární činnost na střední odborné škole s ukončeným vzděláním maturitou.
 

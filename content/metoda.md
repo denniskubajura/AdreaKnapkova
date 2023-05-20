@@ -10,7 +10,7 @@ url: "/metoda/"
 - **Metodu EFT** – Techniky emoční svobody
 - **Meditaci**
 
-![An image of me](/ja2.jpg)
+![Andrea Knápková](/Andrea_Knapkova.jpg)
 
 
 <img src="stsatic/ja2.jpg" width="100%" height="100%" />
