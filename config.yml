@@ -1,6 +1,6 @@
 baseURL: "https://andreaknapkova.cz/"
 languageCode: en-us
-title: Andrea Knápková
+title: "Andrea Knápková"
 theme: "PaperMod"
 paginate: 5
 
@@ -20,7 +20,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Andrea Knápková
-  description: "Vítejte v Ateliéru klidu a radosti"
+  description: "Terapeut Psycho-Energetické Transformace®"
   keywords: [Andrea Knápková, Ateliér klidu a radosti, Terapeut Psycho-Energetické Transformace®]
   author: 
   # author: ["Me", "You"] # multiple authors
