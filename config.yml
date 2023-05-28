@@ -21,7 +21,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Andrea Knápková
   description: "Vítejte v Ateliéru klidu a radosti"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Andrea Knápková, Ateliér klidu a radosti, Terapeut Psycho-Energetické Transformace®]
   author: 
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
