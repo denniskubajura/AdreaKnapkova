@@ -14,4 +14,4 @@ První naše společné setkání proběhne hlavně v zájmu našeho vzájemnéh
 
 Nejsem zdravotnické zařízení a neposkytuji zdravotnické služby, nemám tedy ani smlouvy s pojišťovnami. Nebudu o vás vést a ukládat žádnou zdravotní dokumentaci. Všechny mé služby jsou plně hrazeny klientem.
 
-Cena za hodinu terapie je 1 200 Kč.
+Cena za terapii je 800 Kč.

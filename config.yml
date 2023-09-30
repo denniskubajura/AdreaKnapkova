@@ -20,8 +20,8 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Andrea Knápková
-  description: "Terapeut Psycho-Energetické Transformace®"
-  keywords: [Andrea Knápková, Ateliér klidu a radosti, Terapeut Psycho-Energetické Transformace®]
+  description: "Mentální kouč"
+  keywords: [Andrea Knápková, Ateliér klidu a radosti, Terapeut Psycho-Energetické Transformace®, Mentální kouč]
   author: 
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -63,7 +63,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Terapeut Psycho-Energetické Transformace®
+    title: Mentální kouč
     subtitle: ">Mým cílem je ukázat člověku, že je mnohem komfortnější být v roli tvůrce, nežli oběti. A žít šťastný, zdravý, spokojený, vyrovnaný život nehledě na okolnostech a vnějších vlivech z okolí."
     imageUrl: "/logo.svg"
     imageWidth: 800
@@ -79,6 +79,11 @@ params:
   socialIcons:
     - name: "email"
       url: "mailto:info@andreaknapkova.cz"
+    - name: "facebook"
+      url: "https://www.facebook.com/andrea.knapkova"
+    - name: "instagram"
+      url: "https://www.instagram.com/andrea_knapkova/"
+
 
   analytics:
     google:
